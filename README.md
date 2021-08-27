@@ -1,3 +1,5 @@
-# Semantic_Segmentation
+# Semantic Segmentation
 
-A compilation of all architectures which I implemented from scratch
+## Lung Segmentation
+
+* ResNet50 Architecture

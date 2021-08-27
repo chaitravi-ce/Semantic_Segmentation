@@ -1,3 +1,8 @@
-# Semantic_Segmentation
+# Lung Segmentation
 
-A compilation of all architectures which I implemented from scratch
+## Actual Dataset:
+Uses 700 Images for training and validation
+
+## After Augmentation:
+Uses 1200 Images for training and validation.
+
